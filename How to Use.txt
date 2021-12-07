@@ -1,0 +1,13 @@
+1. class M killer.cmd 우클릭
+2. 관리자 권한으로 실행 클릭
+3. 이제 가만히 냅두면 된다.
+
+class M killer 가 안될경우
+
+1. class M killer Ver 2.cmd 우클릭
+2. 관리자 권한으로 실행 클릭
+3. 이제 가만히 냅두면 된다.
+
+V3 사용법
+
+1. 마우스 우클릭을 하여 PowerShell에서 실행을 누른다.
