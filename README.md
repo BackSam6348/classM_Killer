@@ -1,2 +1,6 @@
-# classM_Killer
-Class M Killer
+# Class M Killer Project
+
+하드보안관 (일명 Class M)을 프로세스를 무력화 하여 여러분의 자유를 보장해 드립니다.
+우회방법도 다양하게 현재도 연구중이며, 우회를 발견시 업데이트를 최대한 빠르게 진행하겠습니다.
+
+문의 : 디스코드 POWERHELL#2021 
