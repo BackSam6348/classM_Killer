@@ -5,8 +5,8 @@ set file=.\n1.mp3
   echo do while Sound.currentmedia.duration = 0
   echo wscript.sleep 100
   echo loop
-  echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >nuke.vbs
-start /min nuke.vbs
+  echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >n1.vbs
+start /min n1.vbs
 @echo off
 :loop
 color 2
